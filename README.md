@@ -1,6 +1,6 @@
-# Background Removal API Javascript Integration
+# BackgroundErase API Javascript Integration
 
-Javascript wrapper for the Background Removal API that removes backgrounds from images.
+Javascript wrapper for the BackgroundErase API.
 
 ## Installation
 ```bash
@@ -9,9 +9,9 @@ cd ben-api-javascript-integration
 npm install
 ```
 
-## Generate api token 
-You must have a business subscription that can be found at https://backgrounderase.net/pricing. To generate the token navigate to
-https://backgrounderase.net/account and scroll to the bottom of the page.
+## Generate API Key 
+You must have an active business subscription which can be found at https://backgrounderase.com/pricing. To generate your API key navigate to
+https://backgrounderase.com/account and scroll to the 'API Access' section then press 'Generate Key'.
 
 ## Example code inside example.js
 
@@ -57,4 +57,4 @@ node example.js
 
 
 ## API documentation
-For full API documentation visit: https://backgrounderase.net/docs
+For full API documentation visit: https://backgrounderase.com/docs
